@@ -1,107 +1,101 @@
 # Hi, I'm Karim 👋
 
-🤖 Robotics Engineering M.Sc. student in Vienna  
-🏭 Working Student @ BMW Group (Production Digitalization)  
-🔧 Passionate about robotics, control systems and autonomous systems
+🎓 Robotics Engineering Student  
+🤖 Focus: Computer Vision & Autonomous Systems  
+📍 Vienna, Austria  
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- Robotics & autonomous systems
-- Robot localization and probabilistic filtering
-- Simulation with ROS / Gazebo
-- Control and vehicle dynamics
+I am a Robotics Engineering student with a strong focus on computer vision, autonomous systems, and robotic software development.
 
----
-
-## 🏎 Formula Student Racing Team
-
-Vehicle Dynamics Engineer at the **Formula Student Racing Team TU Wien**
-
-My work focused on:
-
-- Development of a **digital twin vehicle dynamics model**
-- Simulation of vehicle behaviour using telemetry data
-- Integration and testing of **driver assistance and control algorithms**
-- Analysis of vehicle performance in simulation environments
+I have hands-on experience in:
+- 🤖 Robot software development (ROS / ROS2)
+- 👁️ Computer vision (YOLO, pose estimation)
+- ⚙️ Automation & data-driven systems (Python, Power BI)
+- 🧠 AI applications (LLMs, LangChain, OpenRouter)
 
 ---
 
-## 🚀 Robotics Projects
+## 🔧 Tech Stack
+
+**Programming:**  
+Python, C++, SQL  
+
+**Robotics & CV:**  
+ROS, ROS2, OpenCV, YOLO, Nav2  
+
+**Simulation & Control:**  
+MATLAB, Simulink  
+
+**Tools & Platforms:**  
+Power BI, SolidWorks, KiCad  
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 LLM Robot Control Chatbot
+👉 [https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte](https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte) 
+
+Natural language interface for controlling a mobile robot.
+
+- LLM-based command interpretation  
+- Integrated with ROS2 Nav2 for navigation  
+- Enables human-robot interaction via chat  
+
+**Tech:** Python, LangChain, OpenRouter, ROS2  
+
+---
+
+### 👁️ 6D Pose Estimation Pipeline  
+
+Multi-object pose estimation from RGB-D data.
+
+- Object detection + pose estimation pipeline  
+- Designed for robotic perception tasks  
+
+**Tech:** YOLO, FoundationPose, Python  
+
+🔒 Code available upon request
+
+---
+
+### ⚡ LiDAR Robot Control System
+👉 [https://github.com/KarimEl-Harery/lidar-robot-control-system](https://github.com/KarimEl-Harery/lidar-robot-control-system)  
+
+Real-time robot control system with sensor fusion.
+
+- Multithreading in C++  
+- TCP/IP communication  
+- Sensor fusion for robust control  
+
+**Tech:** C++  
+
+---
 
 ### 🤖 ROS Dual Robot Workcell
-ROS-based simulation of an industrial dual-robot workcell.
+👉 [https://github.com/KarimEl-Harery/ros-dual-robot-workcell](https://github.com/KarimEl-Harery/ros-dual-robot-workcell)  
 
-🔗 https://github.com/karim0101-droid/ros-dual-robot-workcell
+Simulation of an industrial robotic workcell.
 
----
+- Motion planning & collision avoidance  
+- Multi-robot setup in ROS & Gazebo  
 
-### 📍 Probabilistic Robot Localization
-Evaluation of Kalman Filter, Extended Kalman Filter and Particle Filter for TurtleBot3 localization.
-
-🔗 https://github.com/karim0101-droid/probabilistic-robot-localization
+**Tech:** ROS, Gazebo  
 
 ---
 
-## 🤝 Contributions
+## 📈 Interests
 
-### 🤖 Moderne Roboterkonzepte (AI Agent Development)
-
-Development of tooling and components for an **AI-based robotics agent** as part of the course *Moderne Roboterkonzepte*.
-
-My contributions focused on:
-
-- Design and implementation of **agent tooling**
-- Integration of tools for **robotic reasoning and task execution**
-- Support for modular and extensible agent architecture
-
-🔗 https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte
-
----
-
-### ⚡ Lidar Robot Control System
-High-performance robot control and LiDAR visualization system implemented **without ROS**, focusing on low-level system design.
-
-Key features:
-
-- TCP/IP-based communication with robot (odometry, control, sensors)
-- Multithreaded architecture for concurrent control and data processing
-- Real-time LiDAR visualization using `matplotlib-cpp`
-- Odometry-based feedback control for autonomous navigation
-- Efficient data handling using mutexes, queues, and synchronization primitives
-
-Tech highlights:
-
-- C++ (modern, multithreading)
-- Networking (sockets, streaming)
-- Concurrency & synchronization
-- Real-time data processing
-
-🔗 https://github.com/KarimEl-Harery/lidar-robot-control-system
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-- Python
-- C++
-- SQL
-
-**Robotics**
-- ROS
-- Gazebo
-- Computer Vision
-
-**Engineering Tools**
-- MATLAB / Simulink
-- SolidWorks
-- KiCad
+- Robotics software engineering  
+- Computer vision for real-world systems  
+- Autonomous navigation   
 
 ---
 
 ## 📫 Contact
 
-📍 Vienna, Austria  
-✉️ karim.el-harery@outlook.com
+- 📧 Email: karim.el-harery@outlook.com  
+- 💻 GitHub: https://github.com/KarimEl-Harery  
