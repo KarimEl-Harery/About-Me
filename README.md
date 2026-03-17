@@ -46,8 +46,17 @@ Evaluation of Kalman Filter, Extended Kalman Filter and Particle Filter for Turt
 
 ## 🤝 Contributions
 
-🔧 Moderne Roboterkonzepte  
-https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte
+### 🤖 Moderne Roboterkonzepte (AI Agent Development)
+
+Development of tooling and components for an **AI-based robotics agent** as part of the course *Moderne Roboterkonzepte*.
+
+My contributions focused on:
+
+- Design and implementation of **agent tooling**
+- Integration of tools for **robotic reasoning and task execution**
+- Support for modular and extensible agent architecture
+
+🔗 https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte
 
 ---
 
