@@ -1,101 +1,113 @@
-# Hi, I'm Karim 👋
+# Hi, I'm Karim
 
-🎓 Robotics Engineering Student  
-🤖 Focus: Computer Vision & Autonomous Systems  
-📍 Vienna, Austria  
-
----
-
-## 🚀 About Me
-
-I am a Robotics Engineering student with a strong focus on computer vision, autonomous systems, and robotic software development.
-
-I have hands-on experience in:
-- 🤖 Robot software development (ROS / ROS2)
-- 👁️ Computer vision (YOLO, pose estimation)
-- ⚙️ Automation & data-driven systems (Python, Power BI)
-- 🧠 AI applications (LLMs, LangChain, OpenRouter)
+Robotics Engineering MSc student with a background in mechatronics, robotics, perception, control, and software integration.  
+Based in Vienna, Austria.
 
 ---
 
-## 🔧 Tech Stack
+## About Me
 
-**Programming:**  
-Python, C++, SQL  
+I am a Robotics Engineering student with hands-on experience across robot software, perception, control, simulation, and deployment-oriented engineering.
 
-**Robotics & CV:**  
-ROS, ROS2, OpenCV, YOLO, Nav2  
+My work so far has included:
+- Robot software development with ROS / ROS2
+- Perception pipelines for robotics applications
+- Motion planning, localisation, and kinematic modelling
+- Control and simulation in MATLAB / Simulink and C++
+- Practical engineering work across software, hardware, and testing
 
-**Simulation & Control:**  
-MATLAB, Simulink  
-
-**Tools & Platforms:**  
-Power BI, SolidWorks, KiCad  
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 LLM Robot Control Chatbot
-👉 [https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte](https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte) 
-
-Natural language interface for controlling a mobile robot.
-
-- LLM-based command interpretation  
-- Integrated with ROS2 Nav2 for navigation  
-- Enables human-robot interaction via chat  
-
-**Tech:** Python, LangChain, OpenRouter, ROS2  
+I am particularly interested in building reliable robotic systems that connect perception, decision-making, and real-world operation.
 
 ---
 
-### 👁️ 6D Pose Estimation Pipeline  
+## Technical Areas
 
-Multi-object pose estimation from RGB-D data.
+**Programming**  
+Python, C++, SQL
 
-- Object detection + pose estimation pipeline  
-- Designed for robotic perception tasks  
+**Robotics & Perception**  
+ROS, ROS2, Nav2, OpenCV, YOLO, FoundationPose
 
-**Tech:** YOLO, FoundationPose, Python  
+**Simulation & Control**  
+MATLAB, Simulink, Gazebo, RViz
 
-🔒 Code available upon request
-
----
-
-### ⚡ LiDAR Robot Control System
-👉 [https://github.com/KarimEl-Harery/lidar-robot-control-system](https://github.com/KarimEl-Harery/lidar-robot-control-system)  
-
-Real-time robot control system with sensor fusion.
-
-- Multithreading in C++  
-- TCP/IP communication  
-- Sensor fusion for robust control  
-
-**Tech:** C++  
+**Tools**  
+Docker, SolidWorks, KiCad, Power BI
 
 ---
 
-### 🤖 ROS Dual Robot Workcell
-👉 [https://github.com/KarimEl-Harery/ros-dual-robot-workcell](https://github.com/KarimEl-Harery/ros-dual-robot-workcell)  
+## Selected Projects & Contributions
 
-Simulation of an industrial robotic workcell.
+### 6D Pose Estimation Pipeline
+Multi-stage perception pipeline for robotics applications using RGB-D data and CAD-based pose estimation.
 
-- Motion planning & collision avoidance  
-- Multi-robot setup in ROS & Gazebo  
+- Combined object detection, segmentation, and pose estimation
+- Integrated YOLO, RGB-D input, CAD models, and FoundationPose
+- Designed as a modular pipeline for real-world perception tasks
+
+**Tech:** Python, YOLO, FoundationPose  
+**Code:** Available upon request
+
+---
+
+### ROS Dual Robot Workcell
+ROS-based simulation of a dual-robot industrial workcell with coordinated task execution.
+
+- Built custom URDF-based robot setup
+- Implemented inverse kinematics and motion planning
+- Developed a practical launch and visualisation workflow
 
 **Tech:** ROS, Gazebo  
+**Repository:** [ros-dual-robot-workcell](https://github.com/KarimEl-Harery/ros-dual-robot-workcell)
 
 ---
 
-## 📈 Interests
+### LiDAR Robot Control System
+Real-time robot control system with concurrent sensor and control handling.
 
-- Robotics software engineering  
-- Computer vision for real-world systems  
-- Autonomous navigation   
+- Implemented a multithreaded C++ architecture
+- Integrated TCP/IP communication
+- Supported odometry, LiDAR, and feedback-driven robot motion
+
+**Tech:** C++  
+**Repository:** [lidar-robot-control-system](https://github.com/KarimEl-Harery/lidar-robot-control-system)
 
 ---
 
-## 📫 Contact
+### Contributed to: LLM-Assisted Robot Navigation
+Collaborative project on natural-language interaction for robot navigation using ROS2.
 
-- 📧 Email: karim.el-harery@outlook.com  
-- 💻 GitHub: https://github.com/KarimEl-Harery  
+- Contributed to a containerised robot-control workflow with ROS2 Nav2, Gazebo, and RViz
+- Supported tool-based command execution for navigation tasks and robot pose queries
+- Worked on integrating a chatbot-style interface with a mobile robot workflow
+
+**Tech:** Python, ROS2, Nav2, Docker  
+**Repository:** [Moderne_Roboterkonzepte](https://github.com/DavidSeyserGit/Moderne_Roboterkonzepte)
+
+---
+
+### Contributed to: Visual SLAM Evaluation
+Collaborative evaluation project comparing multiple visual SLAM systems in a real-world urban RGB-D setting.
+
+- Contributed to the evaluation of ORB-SLAM2, RTAB-Map, Voxgraph, and NvBlox
+- Analysed reconstruction quality and trajectory consistency using PSNR, RMSE, and ATE
+- Supported comparative analysis of feature-based and dense SLAM approaches
+
+**Areas:** Visual SLAM, mapping, trajectory evaluation, robotics perception  
+**Repository:** [Specialisation-NvBlox-and-Voxgraph](https://github.com/Albauddin/Specialisation-NvBlox-and-Voxgraph/tree/evaluation)
+
+---
+
+## Interests
+
+- Robotics software engineering
+- Perception for real-world robotic systems
+- Motion planning and control
+- Autonomous and intelligent robotic systems
+
+---
+
+## Contact
+
+- Email: karim.el-harery@outlook.com
+- GitHub: [github.com/KarimEl-Harery](https://github.com/KarimEl-Harery)
